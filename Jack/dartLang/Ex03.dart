@@ -20,7 +20,7 @@ main(){
   print("$maxValue --> $maxIndex");
 
   loopCount = 0;
-  int minIndex = 0; 
+  int minIndex = 1; 
 
   for(int i in num){
     loopCount++;
