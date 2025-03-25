@@ -4,7 +4,7 @@
 // 숫자들 중 최대값은 15이고 5번째 값 입니다.
 
 main(){
-  List<int> num = [11,12,13,14,15];
+  List<int> num = [20,30,11,12,13,14,15];
   int maxValue = num[0];
   int minValue = num[0];
   int loopCount = 0;
@@ -20,7 +20,7 @@ main(){
   print("$maxValue --> $maxIndex");
 
   loopCount = 0;
-  int minIndex = 1; 
+  int minIndex = 0; 
 
   for(int i in num){
     loopCount++;

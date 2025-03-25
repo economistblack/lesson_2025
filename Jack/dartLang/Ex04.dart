@@ -8,14 +8,16 @@ main(){
 
   for(int i=0; i<score.length; i++){
     histo[score[i] ~/ 10]++;
-    print(histo[score[i]~/10]);
+    // histo[score[i] ~/ 10] = histo[score[i] ~/ 10] + 1
     print(histo);
   }
+  print(histo);
 
-  for(int i=(score.length -1); i>=0; i--){
+  for(int i=(histo.length -1); i>=0; i--){
     String scoreLength = "";
     for(int j = 1; j <= histo[i]; j++){
       scoreLength += "#";
+      //scoreLength = scoreLenth + "#";
       print(scoreLength);
     }
     print("${i*10} : $scoreLength");
