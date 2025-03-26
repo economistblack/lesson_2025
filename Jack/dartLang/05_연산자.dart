@@ -10,7 +10,7 @@ main(){
   print(num);
 
   num = num + 2;
-  num += 2; // num은 2씩 증가, 누적 연산자
+  num += 2; // num은 2씩 증가, 누적 연산자 num = num +2
   print(num);
 
   // Optional : Null Safety 
