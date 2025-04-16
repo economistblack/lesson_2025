@@ -1,0 +1,100 @@
+[
+  {
+    "section": "Leaders",
+    "description": "Concise and authoritative editorial pieces that express the magazine's opinion on current issues.",
+    "sample_article": "How to contain Iran",
+    "topics": ["Politics", "Foreign Affairs", "Conflict"],
+    "region": "Global"
+  },
+  {
+    "section": "Briefing",
+    "description": "In-depth analysis of a single topic, usually a pressing global issue.",
+    "sample_article": "China’s ghost cities",
+    "topics": ["Urbanization", "China", "Real Estate"],
+    "region": "Asia"
+  },
+  {
+    "section": "United States",
+    "description": "Covers political, economic, and social developments within the United States.",
+    "sample_article": "The strange death of America’s middle class",
+    "topics": ["Politics", "Economy", "Society"],
+    "region": "North America"
+  },
+  {
+    "section": "The Americas",
+    "description": "Covers Latin America and Canada, focusing on regional politics and economic challenges.",
+    "sample_article": "Venezuela’s collapse",
+    "topics": ["Latin America", "Democracy", "Oil"],
+    "region": "South America"
+  },
+  {
+    "section": "Europe",
+    "description": "Analysis of political and economic developments across Europe.",
+    "sample_article": "The rise of the far right in France",
+    "topics": ["Elections", "Immigration", "Eurozone"],
+    "region": "Europe"
+  },
+  {
+    "section": "Britain",
+    "description": "Focuses on domestic politics, policy, and the economy of the United Kingdom.",
+    "sample_article": "Britain after Brexit",
+    "topics": ["Brexit", "NHS", "Labour Party"],
+    "region": "United Kingdom"
+  },
+  {
+    "section": "Middle East & Africa",
+    "description": "Discusses conflicts, economic development, and governance in the region.",
+    "sample_article": "The Sudan crisis",
+    "topics": ["Civil War", "Development", "Corruption"],
+    "region": "Africa, Middle East"
+  },
+  {
+    "section": "Asia",
+    "description": "Covers China, India, and other Asian countries with a focus on geopolitics and growth.",
+    "sample_article": "India’s demographic dividend",
+    "topics": ["Geopolitics", "Economy", "Youth"],
+    "region": "Asia"
+  },
+  {
+    "section": "Business",
+    "description": "Analysis of company performance, markets, and business trends worldwide.",
+    "sample_article": "Big Tech under pressure",
+    "topics": ["Big Tech", "Regulation", "Innovation"],
+    "region": "Global"
+  },
+  {
+    "section": "Finance & Economics",
+    "description": "Covers global economic trends, monetary policy, and financial markets.",
+    "sample_article": "The future of the dollar",
+    "topics": ["Inflation", "Central Banks", "Cryptocurrency"],
+    "region": "Global"
+  },
+  {
+    "section": "Science & Technology",
+    "description": "Explores breakthroughs, research, and the implications of technology.",
+    "sample_article": "CRISPR and the ethics of gene editing",
+    "topics": ["Genetics", "AI", "Climate"],
+    "region": "Global"
+  },
+  {
+    "section": "Culture",
+    "description": "Covers books, arts, film, and global cultural affairs.",
+    "sample_article": "The global influence of K-pop",
+    "topics": ["Music", "Cinema", "Literature"],
+    "region": "Global"
+  },
+  {
+    "section": "Graphic Detail",
+    "description": "Data-driven analysis of current events and trends through charts and visualizations.",
+    "sample_article": "What data says about happiness",
+    "topics": ["Data", "Surveys", "Behavior"],
+    "region": "Global"
+  },
+  {
+    "section": "Obituary",
+    "description": "Profiles of influential individuals who recently passed away.",
+    "sample_article": "The last Soviet dissident",
+    "topics": ["Biography", "Legacy", "History"],
+    "region": "Global"
+  }
+]
